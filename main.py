@@ -10,9 +10,7 @@ def fizz_it_up():
             print("Fizz");
         else:
             print(i);
-
-
-# Press the green button in the gutter to run the script.
+            
 if __name__ == '__main__':
     fizz_it_up();
 
